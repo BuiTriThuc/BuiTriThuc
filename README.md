@@ -2,7 +2,6 @@
 ## 🌐
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thucbuii) 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ThucBuiTri&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
