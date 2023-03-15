@@ -1,11 +1,4 @@
 
-<!-- thanhhiepdev -->
-<a href="#" target="_blank">
-  <img src="svg/thanhhiepdev.svg" width="1200" alt="thanhhiepdev-official" />
-</a>
-<div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
