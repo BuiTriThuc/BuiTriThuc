@@ -1,6 +1,6 @@
 
 <table style="width:100%;">
-  <tr>
+<!--   <tr>
     <td>
       <p align="center"> 
     <a href="#" title="ThucBui">
@@ -8,7 +8,7 @@
     </a>
     </td>
     
-  </tr>
+  </tr> -->
   <td>
        <p align="center"> 
         <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="400px"/>
